@@ -7,7 +7,7 @@ import TasteLoom from ".././assets/images/TasteLoom.webp";
 import FastBite from ".././assets/images/FastBite.webp";
 import FootScoreo from ".././assets/images/FootScoreo.webp";
 import Pixeliva from ".././assets/images/Pixeliva.webp";
-import SmartChatbot from ".././assets/images/Smart-Chatbot.webp";
+import SmartChatbot from ".././assets/images/Smart-chatbot.webp";
 import SmartQR from ".././assets/images/SmartQR-scanner.webp";
 import FitRatio from ".././assets/images/FitRatio.webp";
 // NavLinks
