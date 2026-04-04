@@ -88,10 +88,10 @@ section[id] {
   width: 6px;
 }
 ::-webkit-scrollbar-track {
-  background: var(--bg-section);
+  background: var(--color-bg-card);
 }
 ::-webkit-scrollbar-thumb {
-  background: var(--accent);
+  background: var(--color-accent);
   border-radius: 10px;
 }
 header {
